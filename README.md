@@ -275,6 +275,3 @@ It is suitable as:
 - a research prototype
 - the perception layer of a robotics or drone system
 
----
-
-Happy hacking ✋🚀
